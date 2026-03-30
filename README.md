@@ -52,8 +52,10 @@ Backend / Extras
    - Drag & Drop + smooth animations  
    - Live: https://portfolio-wine-beta-64.vercel.app/  
 
-### GitHub Stats  
+### GitHub Stats 
+
 ! (https://github-profile-trophy.vercel.app/?username=naser-baradaran33&theme=radical)
+
 ! (https://github-readme-streak-stats.herokuapp.com/?user=naser-baradaran33&theme=radical)
 
 ### Currently Learning  
