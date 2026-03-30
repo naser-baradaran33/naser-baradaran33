@@ -39,16 +39,18 @@ Backend / Extras
    - AI-generated dynamic interview questions  
    - Secure auth + real-time voice + Zod validation  
    - Improvement: 40% faster load with lazy loading  
-   - Live: https://interview-platform-4obb.vercel.app/ | Repo: https://github.com/naser-baradaran33/interview-platform-ai  
+   - Live: https://interview-platform-4obb.vercel.app/   
 
 2. Modern Dashboard  
    - React + TypeScript + Tailwind  
    - Responsive & interactive dashboard  
    - Scalable components + Vercel deploy  
+   - Live: https://dashboard-psi-five-82.vercel.app/  
 
 3. Interactive Portfolio (MacBook UI)  
    - React + GSAP + Tailwind  
    - Drag & Drop + smooth animations  
+   - Live: https://portfolio-wine-beta-64.vercel.app/  
 
 ### GitHub Stats  
 ! (https://github-readme-stats.vercel.app/api?username=naser-baradaran33&show_icons=true&theme=radical)  
