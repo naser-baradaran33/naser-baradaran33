@@ -53,8 +53,8 @@ Backend / Extras
    - Live: https://portfolio-wine-beta-64.vercel.app/  
 
 ### GitHub Stats  
-! (https://github-readme-stats.vercel.app/api?username=naser-baradaran33&show_icons=true&theme=radical)  
-! (https://github-readme-stats.vercel.app/api/top-langs/?username=naser-baradaran33&layout=compact&theme=radical)  
+! (https://github-profile-trophy.vercel.app/?username=naser-baradaran33&theme=radical)
+! (https://github-readme-streak-stats.herokuapp.com/?user=naser-baradaran33&theme=radical)
 
 ### Currently Learning  
 - Jest / React Testing Library  
