@@ -54,7 +54,7 @@ Backend / Extras
 
 ### GitHub Stats 
 
-! (https://github-profile-trophy.vercel.app/?username=naser-baradaran33&theme=radical)
+npx plugins add vercel/vercel-plugin
 
 ! (https://github-readme-streak-stats.herokuapp.com/?user=naser-baradaran33&theme=radical)
 
