@@ -1,8 +1,9 @@
 # Naser Baradaran – Junior Full-Stack Developer  
 React | Next.js | TypeScript | Germany
 
-> "Coding is problem-solving, not knowing everything."  
-> – Always learning, building real apps. (https://img.shields.io/github/followers/naser-baradaran33?style=social)]
+> Coding is problem-solving, not knowing everything. 
+> – Always learning, building real apps. 
+(https://img.shields.io/github/followers/naser-baradaran33?style=social)
 (https://github.com/naser-baradaran33)
 (https://www.linkedin.com/in/daniel-baradaran-209a35398)  
 
