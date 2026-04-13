@@ -47,7 +47,7 @@ Git • GitHub • Vercel (CI/CD) • ESLint • Prettier
 ---
 
 ### 👀 Preview
-![Signalist Preview](assets/signalist.gif)
+![Signalist](assets/signalist_animated.gif)
 
 ---
 
