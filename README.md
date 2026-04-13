@@ -1,71 +1,143 @@
-# Naser Baradaran – Junior Full-Stack Developer  
-React | Next.js | TypeScript | Germany
+👋 Hi, I'm Naser Baradaran  
 
-> Coding is problem-solving, not knowing everything. 
-> – Always learning, building real apps. 
-(https://img.shields.io/github/followers/naser-baradaran33?style=social)
-(https://github.com/naser-baradaran33)
-(https://www.linkedin.com/in/daniel-baradaran-209a35398)  
+### Full-Stack Developer (Frontend-Focused)  
+React • Next.js • TypeScript • Germany 🇩🇪  
 
-Eppingen, Germany | +49 176 21714568 | naser.baradaran33@gmail.com  
+---
 
-### About Me  
-Junior Frontend / Full-Stack Developer focused on React, Next.js, and TypeScript.  
-Hands-on experience building responsive, scalable, performance-oriented web apps.  
-Full-Stack skills: API integration, Auth (NextAuth/JWT), even AI features (Gemini + Vapi).  
-Currently seeking Junior Frontend/Full-Stack roles in Germany – ready for Agile teams!
+## 🚀 About Me
 
-### Technical Skills  
-Frontend  
-- HTML5 • CSS3 • Tailwind CSS  
-- JavaScript (ES6+) • TypeScript  
-- React • Next.js (App Router, SSR, API Routes)  
+I’m a frontend-focused full-stack developer with hands-on experience building scalable, production-ready web applications using modern technologies like React, Next.js, and TypeScript.
 
-State & Forms  
-- Redux • Zustand  
-- React Hook Form • Zod • Yup  
+I focus on:
+- ⚡️ Performance & clean architecture  
+- 🤖 AI integration & real-time systems  
+- 📊 Data-driven user experiences  
+- 🚀 Building real products from idea to deployment  
 
-Tools & Workflow  
-- Git • GitHub • Vite • Vercel  
-- ESLint • Prettier • Chrome DevTools  
-- Agile (Scrum) • SEO Basics  
+I’ve built and deployed multiple full-stack applications on Vercel, including AI-powered and real-time platforms.
 
-Backend / Extras  
-- Firebase • REST APIs • Axios • Gemini AI • Vapi (Voice AI)  
+👉 Currently open to Junior / Junior+ Frontend or Full-Stack roles in Germany
 
-### Highlighted Projects  
-1. AI-Powered Interview Platform (Full-Stack)  
-   - Next.js + TypeScript + Firebase + Gemini AI + Vapi  
-   - AI-generated dynamic interview questions  
-   - Secure auth + real-time voice + Zod validation  
-   - Improvement: 40% faster load with lazy loading  
-   - Live: https://interview-platform-4obb.vercel.app/   
+---
 
-2. Modern Dashboard  
-   - React + TypeScript + Tailwind  
-   - Responsive & interactive dashboard  
-   - Scalable components + Vercel deploy  
-   - Live: https://dashboard-psi-five-82.vercel.app/  
+## 🛠 Tech Stack
 
-3. Interactive Portfolio (MacBook UI)  
-   - React + GSAP + Tailwind  
-   - Drag & Drop + smooth animations  
-   - Live: https://portfolio-wine-beta-64.vercel.app/  
+Frontend:  
+React • Next.js (App Router, SSR) • TypeScript • Tailwind CSS • ShadCN  
 
-### GitHub Stats 
+Backend & Data:  
+Next.js API Routes • MongoDB • Firebase • REST APIs  
 
-npx plugins add vercel/vercel-plugin
+AI & Real-Time:  
+Gemini AI • Vapi (Voice AI) • Finnhub API  
 
-! (https://github-readme-streak-stats.herokuapp.com/?user=naser-baradaran33&theme=radical)
+Tools & Workflow:  
+Git • GitHub • Vercel (CI/CD) • ESLint • Prettier  
 
-### Currently Learning  
-- Jest / React Testing Library  
+---
+
+## 🌟 Featured Project
+
+# 🚀 Signalist – Real-Time Stock Market Platform  
+
+🔗 Live Demo: https://www.viewsignal.space/  
+💻 Code: Available upon request  
+
+---
+
+### 👀 Preview
+![Signalist Preview](assets/signalist.gif)
+
+---
+
+### ✨ Overview
+
+Signalist is a modern real-time stock market analytics platform that combines live data, AI-powered insights, and automated workflows.
+
+---
+
+### ⚡️ Key Features
+
+- 📈 Real-time stock data with <200 ms latency  
+- ⭐️ Personalized watchlists (multi-device sync)  
+- 🤖 AI-powered insights (trend & sentiment analysis via Gemini)  
+- 🔐 Secure authentication (Google OAuth with BetterAuth)  
+- 🕒 Background jobs & event-driven workflows (Inngest)  
+- 📬 Automated email summaries (Resend)  
+
+---
+
+### 🧠 Tech Architecture
+
+- Next.js 14 (App Router)  
+- MongoDB (Mongoose)  
+- BetterAuth (Authentication)  
+- Finnhub API (Market Data)  
+- Gemini AI (Insights)  
+- Inngest (Background Jobs)  
+- Resend (Emails)  
+- Vercel (Deployment & CI/CD)  
+
+---
+
+### 🚀 Impact
+
+- ⚡️ Processes real-time data with low latency (<200 ms)  
+- 📊 Improves market analysis speed (~3x, benchmark-based)  
+- 🏗 Designed as a scalable, production-ready system  
+
+---
+
+## 📊 Other Projects
+
+### 🤖 PrepWise – AI Interview Platform  
+🔗 https://interview-platform-4obb.vercel.app/  
+
+- AI-generated interview questions  
+- Real-time voice interaction (Gemini + Vapi)  
+- Secure authentication & validation  
+- ~30% performance improvement  
+
+---
+
+### 📊 Modern Dashboard  
+🔗 https://dashboard-psi-five-82.vercel.app/  
+
+- Interactive charts & KPI visualization  
+- Export (CSV, PNG, SVG)  
+- Scalable component architecture  
+
+---
+
+### 💻 Interactive Portfolio  
+🔗 https://portfolio-wine-beta-64.vercel.app/  
+
+- Drag & Drop UI  
+- Smooth animations (GSAP)  
+- Responsive design  
+
+---
+
+## 📚 Currently Learning
+
+- Testing (Jest, React Testing Library)  
 - CI/CD with GitHub Actions  
-- Dark Mode + Accessibility  
+- Accessibility & performance optimization  
 
-### Contact  
-- LinkedIn: https://www.linkedin.com/in/naser-baradaran  
-- Portfolio: https://modern-pixel-nine.vercel.app/  
-- Email: naser.baradaran33@gmail.com  
+---
 
-Open to new opportunities in Germany – happy to hear feedback or collaborate! 🚀
+## 📬 Contact
+
+📧 Email: naser.baradaran33@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/naser-baradaran  
+🌐 Portfolio: https://modern-pixel-nine.vercel.app/  
+
+---
+
+## 💼 Open to Opportunities
+
+I’m actively looking for opportunities in Germany.  
+If you're hiring a motivated Full-Stack or Frontend Developer:
+
+👉 Let’s connect and build something impactful 🚀
