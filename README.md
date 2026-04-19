@@ -70,7 +70,7 @@ Signalist is a modern real-time stock market analytics platform that combines li
 
 ### 🧠 Tech Architecture
 
-- Next.js 14 (App Router)  
+- Next.js 16 (App Router)  
 - MongoDB (Mongoose)  
 - BetterAuth (Authentication)  
 - Finnhub API (Market Data)  
