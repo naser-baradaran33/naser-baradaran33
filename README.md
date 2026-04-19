@@ -129,7 +129,7 @@ Signalist is a modern real-time stock market analytics platform that combines li
 
 ## 📬 Contact
 
-📧 Email: naser.baradaran33@gmail.com  
+📧 Email:    naser.baradaran33@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/naser-baradaran  
 🌐 Portfolio: https://modern-pixel-nine.vercel.app/  
 
