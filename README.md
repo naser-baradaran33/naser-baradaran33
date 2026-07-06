@@ -94,10 +94,6 @@ Signalist is a modern real-time stock market analytics platform that combines li
 - Vercel (Deployment & CI/CD)  
 
 ---
-📊 GitHub Stats
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=naser-baradaran33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naser-baradaran33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=CBD5E1&langs_count=8"/></div><div align="center">
-</div>
-
 ### 🚀 Impact
 
 - ⚡️ Processes real-time data with low latency (<200 ms)  
