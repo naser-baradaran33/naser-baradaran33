@@ -39,6 +39,20 @@ Git • GitHub • Vercel (CI/CD) • ESLint • Prettier
 
 ## 🌟 Featured Project
 
+AI-Powered Browser IDE
+A complete development environment running entirely in the browser — no local setup needed.
+What makes it unique:
+ • 🖥️ Full IDE: Editor (CodeMirror 6) + File tree + Live Preview + Terminal (xterm)
+ • 🧠 Agent-based code engine with tool-oriented file processing
+ • ⚡️ Async AI orchestration via Inngest (decoupled from UI)
+ • 🔄 Real-time sync via Convex | Live execution via WebContainer API
+ • 🐙 GitHub import/export via Octokit
+ • 🔐 Auth: Clerk | Monitoring: Sentry
+
+  Live Demo: https://flow-code-ai-rxe4.vercel.app/
+
+  --------------------------------------------------
+
 # 🚀 Signalist – Real-Time Stock Market Platform  
 
 🔗 Live Demo: https://www.viewsignal.space/  
@@ -80,6 +94,9 @@ Signalist is a modern real-time stock market analytics platform that combines li
 - Vercel (Deployment & CI/CD)  
 
 ---
+📊 GitHub Stats
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=naser-baradaran33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naser-baradaran33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=CBD5E1&langs_count=8"/></div><div align="center">
+</div>
 
 ### 🚀 Impact
 
