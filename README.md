@@ -40,6 +40,8 @@ Git • GitHub • Vercel (CI/CD) • ESLint • Prettier
 ## 🌟 Featured Project
 
 AI-Powered Browser IDE
+
+
 A complete development environment running entirely in the browser — no local setup needed.
 What makes it unique:
  • 🖥️ Full IDE: Editor (CodeMirror 6) + File tree + Live Preview + Terminal (xterm)
@@ -52,8 +54,7 @@ What makes it unique:
   Live Demo: https://flow-code-ai-rxe4.vercel.app/
 
   --------------------------------------------------
-
-# 🚀 Signalist – Real-Time Stock Market Platform  
+Real-Time Stock Market Platform
 
 🔗 Live Demo: https://www.viewsignal.space/  
 💻 Code: Available upon request  
