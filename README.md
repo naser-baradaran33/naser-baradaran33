@@ -61,11 +61,6 @@ Real-Time Stock Market Platform
 
 ---
 
-### 👀 Preview
-![Signalist](assets/signalist_animated.gif)
-
----
-
 ### ✨ Overview
 
 Signalist is a modern real-time stock market analytics platform that combines live data, AI-powered insights, and automated workflows.
